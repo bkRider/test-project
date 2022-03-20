@@ -6,6 +6,8 @@ List<company> companys= new arrayList<company>();
 for (company:companys) {
     if (company.equals(companys.company)) { 
         String checkThis = ....
-        count --;
+        count ++;
     }
 }
+
+int totalProc = 0;
