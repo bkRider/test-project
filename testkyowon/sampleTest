@@ -10,4 +10,9 @@ for (company:companys) {
     }
 }
 
-int totalProc = 0;
+int totalProc = 10;
+int subProc = 0;
+
+if (subProc >= totalProc) {
+    out.print("ya 2 c!!");
+}
